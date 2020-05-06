@@ -2,7 +2,7 @@
 
 A place to store all VWC produced tutorials.
 
-## BASIC
+## BASICS
 
 [Github](Github/README.md)
 
