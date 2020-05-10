@@ -6,7 +6,7 @@ A place to store all VWC produced tutorials.
 
 ### Git
 
-* [Github](Git\Git Tutorial\README.md) - This tutorial is on the basics of Git.SS
+* [This tutorial is on the basics of Git](Git\Git Tutorial\README.md)
 
 ### CSS
 
