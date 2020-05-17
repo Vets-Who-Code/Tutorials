@@ -2,9 +2,9 @@
 
 A place to store all VWC produced tutorials.
 
-### BASICS
+### Git
 
-[Github](Github/README.md)
+* [This is a basic git tutorial](Git/basics/git.md)
 
 ### CSS
 
