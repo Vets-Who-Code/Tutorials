@@ -1,7 +1,5 @@
 ![VWC Github Banner](https://i.ibb.co/Btmxs4q/vwc-github.png)
 
-# Git
-
 ## Introduction
 
 In Vets Who Code we have a pretty solid [curriculum](https://github.com/Vets-Who-Code/Curriculum) where we teach from the basics to the more advanced. Week 1 of training involves the command line, VS Code, Markdown, and Git. This tutorial is on the basics of Git.
@@ -15,17 +13,16 @@ Git is a distributed version control and collaboration system that tracks change
 
 ## Table of Contents
 
-- [Git](#git)
-  - [Introduction](#introduction)
-  - [Requirements](#requirements)
-  - [Table of Contents](#table-of-contents)
-  - [Create a Repository](#create-a-repository)
-  - [Clone Your Repo Locally](#clone-your-repo-locally)
-  - [Create a New Branch](#create-a-new-branch)
-  - [Make, Add, Commit, and Push Changes](#make-add-commit-and-push-changes)
-  - [Making a Pull Request](#making-a-pull-request)
-  - [Wrapping it up](#wrapping-it-up)
-  - [Vets Who Code](#vets-who-code)
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Table of Contents](#table-of-contents)
+- [Create a Repository](#create-a-repository)
+- [Clone Your Repo Locally](#clone-your-repo-locally)
+- [Create a New Branch](#create-a-new-branch)
+- [Make, Add, Commit, and Push Changes](#make-add-commit-and-push-changes)
+- [Making a Pull Request](#making-a-pull-request)
+- [Wrapping it up](#wrapping-it-up)
+- [Vets Who Code](#vets-who-code)
 
 ## Create a Repository
 
