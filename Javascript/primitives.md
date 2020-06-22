@@ -1,3 +1,5 @@
+# JavaScript Primitives
+
 ### Variables
 
 The values a program stores in computer memory are called variables. Data stored in a specific variable often changes. A variable is similar to a storage locker—a program can put any value into it and then retrieve the value later for use. To use a variable first write a statement that creates it and then assign it a name. For example, an application may have a variable named `currentTime` and then stores the _current time_ in that variable. Each time the application runs, the current time is different, so the value varies. Another example, is an ecommerce program that might include variables that stores customer's names and purchase totals. Each variable will contain different values at different times depending on the name of the customer, the items that customer is purchasing, or the cost of the product.
