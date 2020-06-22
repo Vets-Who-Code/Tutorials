@@ -1,6 +1,6 @@
 # JavaScript
 
-- Primitives
+- [Primitives](Javascript/../primitives.md)
 - Conditionals
 - Arrays
 - Loops
