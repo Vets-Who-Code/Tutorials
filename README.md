@@ -14,6 +14,7 @@ A place to store all VWC produced tutorials.
 ### [Javascript](Javascript/README.md)
 
 - [JavaScript Primitives](Javascript/primitives.md)
+- [JavaScript Conditional](Javascript/conditionals.md)
 
 ### Linux
 

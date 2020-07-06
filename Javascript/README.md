@@ -1,7 +1,7 @@
 # JavaScript
 
 - [Primitives](Javascript/../primitives.md)
-- Conditionals
+- [Conditionals](Javascript/../conditionals.md)
 - Arrays
 - Loops
 - Functions
