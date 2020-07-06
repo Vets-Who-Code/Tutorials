@@ -57,7 +57,7 @@ Variables can contain many different kinds of values—for example, the time of 
 
 ### Primitives
 
-A _primitive_ is data that is not an object and has no methods. There are six primitive data types: _string, number, bigint, boolean, undefined, and symbol_. There also is `null`, which is seemingly primitive, but is a special case [[2]](https://developer.mozilla.org/en-US/docs/Glossary/null).
+A _primitive_ is data type that is not an object and has no methods. There are six primitive data types: _string, number, bigint, boolean, undefined, and symbol_. There also is `null`, which is seemingly primitive, but is a special case [[2]](https://developer.mozilla.org/en-US/docs/Glossary/null).
 All primitives are immutable, meaning, they cannot be changed. For example, the _string_ `let name = "Vets Who Code"` can be either return a new string or can be reassigned.
 
 ```javascript
