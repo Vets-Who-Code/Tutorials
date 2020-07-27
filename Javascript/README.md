@@ -2,7 +2,7 @@
 
 - [Primitives](Javascript/../primitives.md)
 - [Conditionals](Javascript/../conditionals.md)
-- Arrays
+- [Arrays](arrays.md)
 - Loops
 - Functions
 - Objects -Nested Functions
