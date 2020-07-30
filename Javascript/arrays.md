@@ -151,6 +151,117 @@ Here are the most common ones that are used:
 
 ### Loop over an array
 
+There are several ways to iterate through an array. Two of them are methods of arrays. The first one is `forEach`
 
+#### `forEach`
+
+The `forEach` method executes a function once for each array element.
+It provides a `callback` function once for each element and can be called with three arguments: the element, the array index, and the array itself. The index and array arguments are optional but the element argument is required for the method to run.
+
+```javascript
+let array = ["milk", "eggs", "butter", "cheese"];
+array.forEach(function (item, index, array) {
+  console.log(item, index);
+});
+// milk 0
+// eggs 1
+// butter 2
+// cheese 3
+```
+
+#### `map`
+
+The `map` method creates a new array and executes a function once for each array element.
+
+```javascript
+let numbers = [1, 2, 3, 4, 5];
+let plusOne = numbers.map(function (num) {
+  return num + 1;
+});
+console.log(plusOne);
+// [2, 3, 4, 5, 6]
+```
+
+#### Exercise
+
+> Write a function called "multiplyByTwo"
+> Given an array, multiply every element by two using the Array.map >method. It should return the array of elements multiplied by two.
+>
+> Example output:
+> `console.log(multiplyByTwo([1,2,3,4])); // --> [2,4,6,8]`
+
+https://repl.it/student/submissions/13529445
+
+## Add/Remove items from an array
+
+When you work with arrays, it is easy to remove elements and add new elements.
+
+### Queue
+
+A queue is a very common operation in computer science (CS). When referring to arrays it means removing the first element and adding to the end. To do each operation we have `shift` to remove from the front and `push` to add an element to the back of an array. It follows the principle of First In First Out or FIFO.
+
+#### shift
+
+The `Array.shift()` method removes the first item from an array.
+
+```javascript
+let items = ["canteen", "pack", "helmet", "gloves"];
+items.shift();
+console.log(items);
+// ["pack", "helmet", "gloves"]
+// Removed the first element from the items array
+```
+
+#### push
+
+The `Array.push(item)` adds an element to the end of the array.
+
+```javascript
+let items = ["canteen", "pack", "helmet", "gloves"];
+items.push("boots");
+console.log(items);
+// ["canteen", "pack", "helmet", "gloves", "boots"]
+// Added the element "boots" to the end of the items array
+```
+
+### Stack
+
+A stack is another CS operation but instead of removing from the front and adding to the rear, we add to the front and remove from the rear. `unshift` to add to the front and `pop` to remove from the back of an array. This principle is known as Last In First Out. Imagine a stack of records. You add one to the top and pull from the bottom.
+
+#### unshift
+
+Probably the least descriptive word for an array method is `unshift`. It is opposite of `shift`. So instead of removing this method adds to the front of an array. `unshift` will reallocate memory by rewriting all of your other indexes so it is very performance intensive with large arrays.
+
+```javascript
+let items = ["canteen", "pack", "helmet", "gloves"];
+items.unshift("boots");
+console.log(items);
+// ["boots", "canteen", "pack", "helmet", "gloves"]
+// Added the element "boots" to the beginning of the items array
+```
+
+#### pop
+
+`pop` removes an element from the end of the array.
+
+```javascript
+let items = ["canteen", "pack", "helmet", "gloves"];
+items.pop();
+console.log(items);
+// ["canteen", "pack", "helmet"]
+// Removed the element "gloves" to the end of the items array
+```
+
+### Exercises
+
+1. Add an element to the front of an array. https://repl.it/student/submissions/13542330
+
+2. Add an element to the back of an array https://repl.it/student/submissions/13542338
+
+3. Remove from the end of an array https://repl.it/student/submissions/13542354
+
+4. Remove an element from the front of an array https://repl.it/student/submissions/13542369
 
 ## Conclusion
+
+During this lesson the basics of arrays were covered. There is a lot more that this lesson does not cover. The best resource for finding out more about arrays and array methods is MDN, more specifically, this page: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
