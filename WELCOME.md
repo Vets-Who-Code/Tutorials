@@ -120,7 +120,7 @@ The conclusion should also describe what the reader can do next.
 
 ## Formatting
 
-If you are in doubt regarding how to format, please follow the guidance [Digital Ocean Formatting Guildines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#formatting)
+If you are in doubt regarding how to format, please follow the formatting guidance at [Digital Ocean Formatting Guildines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#formatting)
 
 
 # Understanding Our Tech Stack
@@ -137,4 +137,4 @@ If you're not supplied links to join these websites upon joining the team, ask a
 
 # Once Complete
 
-Once you've completed the tutorial share the GitBook link with the group via the Slack channel. Once approved, the link will be added to the tutorial repo.
+Once you've completed your tutorial share the GitBook link with the group via the Slack channel. Once approved, the link will be added to the tutorial repo.
