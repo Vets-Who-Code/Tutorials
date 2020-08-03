@@ -47,7 +47,7 @@ Since this is a veteran's group, we can have some inside jokes, but never let th
 
 ### Title
 
-A typical title follows this format: How To <Accomplish a Task> with <Software> on <Distro>. When you write your title, think carefully about what the reader will accomplish by following your tutorial. Try to include the goal of the tutorial in the title, not just the tool(s) the reader will use to accomplish that goal.
+A typical title follows this format: How To "Accomplish a Task" with "Software" on "Distro". When you write your title, think carefully about what the reader will accomplish by following your tutorial. Try to include the goal of the tutorial in the title, not just the tool(s) the reader will use to accomplish that goal.
 
 ### Introduction
 
