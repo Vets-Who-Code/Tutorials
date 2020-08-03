@@ -51,7 +51,7 @@ A typical title follows this format: How To "Accomplish a Task" with "Software" 
 
 ### Introduction
 
-The purpose of the introduction is to motivate the reader, set expectations, and summarize what the reader will do in the article. Ranges from one to three paragraphs long. If you're having writer's block, answer these questions:
+The purpose of the introduction is to motivate the reader, set expectations, and summarize what the reader will do in the article. Introduction length ranges from one to three paragraphs long. If you're having writer's block, answer these questions:
 
 __What is the tutorial about?__
 </br>
@@ -81,7 +81,7 @@ All commands within a given step should be on their own line in their own code b
 
 ```html
 <div>
-<p>This is my div.</p>
+   <p>This is my div.</p>
 </div>
 ```
 
@@ -95,17 +95,17 @@ If working in the command line, always include the directory information in the 
 $ node server.js
 ```
 
-> This command executes the code written inside the server.js file and initializes the server
+> This command executes the code written inside the server.js file and initializes the server.
 
 Display the output of commands and programs using a code block as well, like the following example:
 
-> Run the hello.js program:
+> Run the hello.js program by entering the following command in the /myProject folder:
 
 ```
 $ node hello.js
 ```
 
-You’ll see the following output:
+This command executes the codes within the hello.js file, and you’ll see the following output:
 
 ```
 Hello world!
@@ -125,19 +125,15 @@ If you are in doubt regarding how to format, please follow the guidance [Digital
 
 # Understanding Our Tech Stack
 
-Our tutorials are written in GitBook using markdown. Interactive coding interfaces are created with the Vets Who Code repl.it classroom account and embedded within the GitBook tutorials.
+Our tutorials are written in GitBook using markdown. Interactive coding interfaces are created with the Vets Who Code repl.it classroom account and embedded within the GitBook tutorials. To find out what to do, you'll need to join the VWC Jira account to see the tickets describing tutorials that still need to be written.
 
-To get access:
+If you're not supplied links to join these websites upon joining the team, ask a team member for the following:
 
-Ask a member for an invitation link to the GitBooks if you don't have one.
+- An invitation link to the GitBooks if you don't have one.
 
-Ask a member for login details for the repl.it classroom.
+- Login details for the repl.it classroom.
 
-
-# Writing Your First Tutorial
-
-If you'd like to jump right in, visit the [Do We Have A Kanban?](https://vetswhocode.io/) and select a ticket for the topic you would like to cover. All tutorials that need to be written are found here.
-
+- An invitation to the Jira account.
 
 # Once Complete
 
