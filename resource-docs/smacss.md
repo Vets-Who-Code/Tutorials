@@ -1,1 +1,1 @@
-[Go Back to Resources List](../resources.md)
+[Go Back to Resources List](../RESOURCES.md)
