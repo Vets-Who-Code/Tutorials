@@ -22,7 +22,7 @@
 
 ### [🔍 jQuery 🔍](resource-docs/jquery.md)
 
-### [↗️ Serving to the Web ↗️](resource-docs/serving.md)
+### [↗️ Serving to the Web ↗️](resource-docs/servingToWeb.md)
 
 ### [🧪 API's 🧪](resource-docs/api.md)
 
