@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-This folder stores all of the markdown files linked to in the resources.md file.
+### This folder stores all of the markdown files linked to in the resources.md file.
 
 ## Contributing To This List
 
@@ -13,6 +13,6 @@ Our goal here is quality, not quantity.
 ## Style Guide
 - All links will be h2 in size 
 
-- Each Link will appear on its own line.
+- Each link will appear on its own line.
 
 - The link description will describe the resource as concisely as possible.
