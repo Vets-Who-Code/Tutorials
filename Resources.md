@@ -1,4 +1,4 @@
-## Explore this curated list of learning resources.
+## Explore this #Vetswhocode-curated list of learning resources.
 
 ### [🚧 HTML 🚧](resource-docs/html.md)
 
