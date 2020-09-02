@@ -14,11 +14,11 @@
 
 ### [📝 Work Flow 📝](resource-docs/workflow.md)
 
-### [📱 UX/UI Design Principles 📱](resources-docs/uxui.md)
+### [📱 UX/UI Design Principles 📱](resource-docs/uxui.md)
 
-### [ ♿ Web Accessibility ♿](resources-docs/webaccessibility.md)
+### [ ♿ Web Accessibility ♿](resource-docs/webaccessibility.md)
 
-### [🏛 SMACSS 🏛](resources-docs/smacss.md)
+### [🏛 SMACSS 🏛](resource-docs/smacss.md)
 
 ### [🔍 jQuery 🔍](resource-docs/jquery.md)
 
@@ -38,6 +38,6 @@
 
 ### [☑️ Testing ☑️](resource-docs/testing.md)
 
-### [🔃 Continuous Integration 🔃](continuousIntegration.md)
+### [🔃 Continuous Integration 🔃](resource-docs/continuousIntegration.md)
 
 ### [⚡ GitHub ⚡](resource-docs/github.md)
