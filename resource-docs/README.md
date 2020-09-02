@@ -16,3 +16,5 @@ Our goal here is quality, not quantity.
 - Each link will appear on its own line.
 
 - The link description will describe the resource as concisely as possible.
+
+- Additional details can be provided below a link in the base font size.
